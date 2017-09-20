@@ -12,3 +12,7 @@ AEM Groovy Console provides an interface for running Groovy scripts in the AEM (
 
 ## Sample Scripts
 This repository is for some Groovy scripts which are useful in AEM JCR modifications and analysis. It can come in handy whenever you seek to modify JCR content recursively , find some properties in pages, or count anything in JCR nodes.  
+
+
+## Reference Blog
+[HashimKhan.in](https://hashimkhan.in/2015/03/12/adventures-with-groovy-script/)
