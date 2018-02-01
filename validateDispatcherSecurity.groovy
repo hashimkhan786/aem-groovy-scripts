@@ -106,7 +106,7 @@ def checkDispatcherInvalidation(String protocol,String domain) {
 }
 
 /* Curl Command Syntax to Parse the XML output. 
-def proc = "curl -u admin:admin http://localhost:4502/content/hum/en.html".execute().text
+def proc = "curl -u admin:admin http://localhost:4502/content/geometrixx/en.html".execute().text
 
 def crx = new XmlSlurper().parseText(proc);
 def packages = crx.response.data.packages
