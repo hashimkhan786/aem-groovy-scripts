@@ -15,7 +15,7 @@ findAllPages()
 
 def findAllPages() {
     getPage(path).recurse {
-        page - >
+        page ->
             println 'Title:' + page.title
         println 'Path:' + page.path
         noOfPages++
